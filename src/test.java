@@ -10,7 +10,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
-public class intelli_umuc {
+public class test {
 
 	public static void main(String[] args) {
 		
